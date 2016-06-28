@@ -1,0 +1,15 @@
+<html>
+<head>
+  <title>Online Shopping India | Buy Mobiles, Electronics, Appliances, Clothing and More Online.</title>
+  <meta name="Keywords" content="Online Shopping, India, Books, Store, Flipkart, Flipĸart"/>
+  <meta name="Description" content="Shop Online for mobiles, electronics, appliances, lifestyle and wide range of original products with cash on delivery and free shipping options only at India's Best online shopping website Flipkart.com"/>
+  <link rel='shortcut icon' href="./fkicon.ico" />
+</head>
+<body>
+  <?php
+
+  header('Location: https://www.flipkart.com/?affid=nathgopin');
+
+  ?>
+</body>
+</html>
